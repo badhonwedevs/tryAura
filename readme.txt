@@ -65,9 +65,11 @@ You decide exactly where it appears: enable or disable virtual try-on on a singl
 
 === AI Product Photography Without Reshoots ===
 
-Open any WooCommerce product, choose a background and style, and generate studio-quality product visuals in a few clicks. TryAura works with your existing product photos, so you can elevate dull or inconsistent images across your whole catalog without booking a photographer, renting a set, or editing in design software.
+Open any WooCommerce product, choose a background and style, and generate studio-quality product visualizations in a few clicks. TryAura works with your existing product photos, so you can elevate dull or inconsistent images across your whole catalog without booking a photographer, renting a set, or editing in design software.
 
 Upgrade one product at a time, or work through a full collection whenever you refresh your store. Every generated image saves straight to the WordPress Media Library, ready to publish.
+
+[youtube https://youtu.be/aOKc8Ckh2Gs?si=CM2ca9XXzVWeyG-u]
 
 === Bring Products To Life With Product Video ===
 
@@ -106,9 +108,9 @@ TryAura works right inside your Product Editor and Media Library. Add visuals th
 
 === Consistent, Accurate Product Visuals ===
 
-TryAura is tuned for eCommerce accuracy. Generated visuals are designed to preserve fabric texture, folds, and realistic human proportions, and to stay consistent across products, angles, and variations.
+TryAura is tuned for eCommerce accuracy. Generated product visualizations are designed to preserve fabric texture, folds, and realistic human proportions, and to stay consistent across products, angles, and variations.
 
-Customers choose how they want to try a product on, with a live camera view or an uploaded photo, and if camera access is unavailable, try-on continues through image upload, so no shopper is left out. The goal is realistic, trustworthy visuals, not over-polished images that look fake.
+Customers choose how they want to try a product on during virtual mirror, with a live camera view or an uploaded photo, and if camera access is unavailable, try-on continues through image upload, so no shopper is left out. The goal is realistic, trustworthy visuals, not over-polished images that look fake.
 
 == How TryAura Works ==
 
@@ -121,7 +123,7 @@ From product image to virtual try-on in minutes, all inside WooCommerce.
 
 == Who TryAura Is For ==
 
-TryAura is built for WooCommerce store owners who want better product visuals and a clearer buying experience, without a steep learning curve or surprise costs.
+TryAura is built for WooCommerce store owners who want better product visualization and a clearer buying experience, without a steep learning curve or surprise costs.
 
 * **Small store owners** who want studio-quality visuals without hiring a photographer or learning design tools
 * **Boutique and niche brands** that need a consistent, professional look across the whole catalog
@@ -130,7 +132,7 @@ TryAura is built for WooCommerce store owners who want better product visuals an
 * **DTC brands moving from Shopify** who want a bring-your-own-key model with no platform fees
 * **Dropshippers and catalog-heavy sellers** who need to differentiate generic supplier images
 
-TryAura works best for stores where appearance carries the sale: fashion, apparel, accessories, jewelry, beauty, cosmetics, and lifestyle products.
+TryAura works best for stores where appearance carries the sale: fashion, apparel, accessories, jewelry, beauty, cosmetics, and lifestyle products. Virtual Try-On helps to create a virtual mirror where users can try it on before buying.
 
 == How Stores Use TryAura Every Day ==
 
@@ -152,7 +154,6 @@ Upgrade to a [Pro plan](https://storepulse.co/tryaura/pricing/?utm_source=wordpr
 * **Video duration control**: set how long each generated product video runs
 * **Video thumbnail generation**: create or customize thumbnails to lift play rates
 * **Multi-site licensing**: use TryAura across multiple WooCommerce sites on Professional and Agency plans
-* **Remove TryAura branding**: hide TryAura branding on the try-on widget for a white-labeled experience
 
 == Why Store Owners Choose TryAura ==
 
@@ -188,8 +189,8 @@ TryAura is designed with merchant and customer privacy in mind.
 
 * Generated images and assets are stored in your own WordPress Media Library.
 * Product data and generated visuals stay associated with your website.
-* Camera-based try-on is optional and requires explicit shopper permission.
-* Customers can upload a photo instead of using a camera.
+* Camera-based virtual try-on is optional and requires explicit shopper permission.
+* Customers can upload a photo instead of using a camera during try on.
 * Customer try-on photos are not stored in the website backend.
 
 == External Services ==
