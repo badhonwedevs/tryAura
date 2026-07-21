@@ -37,6 +37,7 @@ If you have additional questions or need assistance, please [contact our team](h
 * **Create product videos** that turn static images into short, engaging clips
 * **Generate blog featured images** for content that matches your store
 * **Build any visually driven WooCommerce store**: fashion, apparel, beauty, jewelry, accessories, lifestyle
+* **Virtual mirror** that lets your shoppers try on before they buy
 
 == The Problem TryAura Solves ==
 
@@ -53,7 +54,7 @@ With TryAura, you can upgrade your whole product catalogue with fresh photos, vi
 
 === Show Products Clearly. Sell With Confidence. ===
 
-Just a few clicks turn simple product images into realistic visuals and try-on experiences. Clean, studio-quality images make your catalog look professional, product videos showcase the fit and fine details that static images miss, and virtual try-on helps customers picture the product before they buy.
+Just a few clicks turn simple product images into realistic visuals and try-on experiences. Clean, studio-quality images make your catalog look professional, product videos showcase the fit and fine details that static images miss, and virtual try-on lets customers appear in front of a virtual mirror, helping picture the product before they buy.
 
 When a shopper can see exactly what they are getting, they feel more secure about the purchase, and you spend less time creating and re-creating product images by hand.
 
@@ -215,7 +216,7 @@ Customer try-on photos are used only to generate the requested preview and are n
 A virtual try-on, or virtual mirror, helps shoppers see how a product looks before buying. Clearer product visualization reduces hesitation and supports more confident decisions, which helps with engagement and fewer surprises after purchase.
 
 = What types of products work best with TryAura virtual try-on? =
-TryAura works best with products where visual appearance matters, such as fashion items, accessories, jewelry, beauty, and other visually driven eCommerce products. Results may vary depending on product photography quality and angles.
+TryAura works best with products where visual appearance matters, such as fashion items, accessories, jewelry, beauty, and other visually driven eCommerce products. With the virtual mirror, you can let your customers picture the product before they buy. Results may vary depending on product photography quality and angles.
 
 = Do I need special product images for it to work well? =
 No. TryAura works with your existing WooCommerce product images. Clear images with good lighting and minimal background noise produce more reliable product visualization results.
